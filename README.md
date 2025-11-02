@@ -3,7 +3,7 @@
 ## Download
 
 ### Windows
-[Download Image Resizer v1.0.0](https://github.com/miniduonline/Image-Resizer/releases/download/v1.0.0/Image.Resizer.Setup.1.0.0.exe)
+[Download Image Resizer v1.0.0](https://github.com/miniduonline/Image-Resizer/releases/download/v1.0.3/Image.Resizer.Setup.1.0.3.exe)
 
 ## Installation
 
